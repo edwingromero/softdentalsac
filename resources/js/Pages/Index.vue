@@ -7,7 +7,7 @@
     
     <div class="container-fluid h-100">
       <div class="row justify-content-center h-100">
-        <div class="col-4 hidden-md-down d-flex justify-content-center flex-column">
+        <div class="col-md-4 hidden-md-down d-flex justify-content-center flex-column">
           <div class="row">
             <div class="col-12 text-center">
               <img class="img-fluid mb-4" style="max-width:70%" src="/images/dentalsac.png" alt="">
